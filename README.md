@@ -24,7 +24,7 @@ This is the frontend of a Doctor Appointment Booking website built using ReactJS
 1. Clone the Repository
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/your-username/doctor-appointment-booking-frontend.git
+git clone https://github.com/AnilPavagada/Doctor-Appointment-Booking-Website-in-ReactJS-.git
 
 cd doctor-appointment-booking-frontend
 
